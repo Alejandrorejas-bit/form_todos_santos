@@ -1,0 +1,54 @@
+body{
+        background-image: url(../imagenes/fondo1.avif);
+}
+header{
+    background-color: gold;
+    padding: 5px;
+}
+footer{
+    background-color:coral;
+    padding: 5px;
+}
+nav{
+    background-color: chartreuse;
+    padding: 5px;
+    text-align: left;
+    display: flex;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+.contenido{
+    background-color: violet;
+    padding: 5px;
+    margin: 2px;
+    display: flex;
+}
+section{
+    background-color: rgb(200, 47, 255);
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 250px;
+}
+*{
+    text-align: center;
+    margin: 10px;
+}
+a{
+    display: inline;
+}
+button{
+    border-radius: 10px;
+}
+input{
+    background-color: beige;
+    border-radius: 10px;
+    width: 80%;
+    height: 50px;
+}
+label{
+    color: azure;
+}
